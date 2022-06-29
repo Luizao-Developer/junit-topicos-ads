@@ -37,4 +37,7 @@ public class Turma {
         this.notasMaiorQueMedia = maiorQueMedia.size();
         return this.notasMaiorQueMedia;
     }
+    public static void main(String args[]){
+        
+    }
 }
